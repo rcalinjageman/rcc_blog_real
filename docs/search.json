@@ -102,7 +102,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "The content on this page is from about.qmd. Edit that file to change how this page looks.\nThis is me!\nTry changing the template type from jolla to one of the other options for a different look and feel.\nI type something.\nBold\nItalics\n\nThis is a header\n\n\nThis is another head\nI am making a website, or a book, or a pdf, or slides!"
+    "text": "The content on this page is from about.qmd. Edit that file to change how this page looks.\nThis is me! A change!\nTry changing the template type from jolla to one of the other options for a different look and feel.\nI type something.\nBold\nItalics\n\nThis is a header\n\n\nThis is another head\nI am making a website, or a book, or a pdf, or slides!"
   },
   {
     "objectID": "index.html",

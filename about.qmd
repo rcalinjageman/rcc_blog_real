@@ -17,7 +17,7 @@ about:
 
 The content on this page is from `about.qmd`. Edit that file to change how this page looks.
 
-This is me!
+This is me! A change!
 
 Try changing the template type from `jolla` to one of the other options for a different look and feel.
 
